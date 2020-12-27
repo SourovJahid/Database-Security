@@ -1,0 +1,4 @@
+Indirect- 
+Tracker=
+SELECT name FROM EXPER WHERE sex='F' AND race='C' AND dormes='Holmes'
+
